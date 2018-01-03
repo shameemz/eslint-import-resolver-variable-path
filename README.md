@@ -43,3 +43,6 @@ MIT, see [LICENSE.md](/LICENSE.md) for details.
 
 [npm-image]: https://img.shields.io/npm/v/eslint-import-resolver-variable-path.svg
 [npm-url]: https://www.npmjs.com/package/eslint-import-resolver-variable-path
+
+[babel-plugin-variable-path-resolver]: https://github.com/shameemz/babel-plugin-variable-path-resolver
+[eslint-plugin-import]: https://www.npmjs.com/package/eslint-plugin-import
