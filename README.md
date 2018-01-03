@@ -41,7 +41,7 @@ MIT, see [LICENSE.md](/LICENSE.md) for details.
 [status-image]: https://img.shields.io/badge/status-maintained-brightgreen.svg
 [status-url]: https://github.com/shameemz/eslint-import-resolver-variable-path
 
-[npm-image]: https://img.shields.io/npm/v/eslint-import-resolver-variable-path.svg
+[npm-version-image]: https://img.shields.io/npm/v/eslint-import-resolver-variable-path.svg
 [npm-url]: https://www.npmjs.com/package/eslint-import-resolver-variable-path
 
 [babel-plugin-variable-path-resolver]: https://github.com/shameemz/babel-plugin-variable-path-resolver
