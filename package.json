@@ -1,6 +1,6 @@
 {
   "name": "eslint-import-resolver-variable-path",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "lib/index.js",
   "description": "babel-plugin-variable-path-resolver resolver for eslint-plugin-import",
   "repository": {
