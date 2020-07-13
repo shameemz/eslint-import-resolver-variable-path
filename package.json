@@ -42,7 +42,7 @@
     "eslint-plugin-import": "^2.7.0",
     "jest": "^21.2.1",
     "lodash": "^4.17.14",
-    "standard-version": "^4.2.0"
+    "standard-version": "^8.0.1"
   },
   "peerDependencies": {
     "babel-plugin-variable-path-resolver": "^0.0.2"
